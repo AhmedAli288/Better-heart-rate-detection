@@ -1,0 +1,13 @@
+{
+  "id": "better_hrd",
+  "name": "Heart Rate Comparer",
+  "type": "app",
+  "sortorder": 0,
+  "version": "0.01",
+  "icon": "sleeptracker.img",
+  "screenshots": [],
+  "description": "Get ecg data and gather it's own heart measurements and compare them.",
+  "src": "better_hrd.app.js",
+  "icon": "better_hrd.png",
+  "files": "better_hrd.info, better_hrd.app.js, better_hrd.img",
+}

@@ -1,0 +1,17 @@
+{
+  "id": "better_hrd",
+  "name": "Heart Rate Comparer",
+  "shortName": "HR Comparer",
+  "version": "0.01",
+  "description": "Receives external ECG data via BLE, gathers internal PPG heart rate, and compares them on a graph.",
+  "icon": "better_hrd.img",
+  "screenshots": [],
+  "type": "app",
+  "tags": "health,bluetooth,tool",
+  "supports": ["BANGLEJS2"],
+  "readme": "README.md",
+  "storage": [
+    {"name":"better_hrd.app.js","url":"better_hrd.app.js"},
+    {"name":"better_hrd.img","url":"better_hrd.icon.js","evaluate":true}
+  ]
+}
